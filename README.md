@@ -10,6 +10,8 @@
   <br>
   🔬 I'm currently studying for my Bachelor's Degree in Information Systems.
   <br>
+  📱 Specialized in cross-platform mobile development with React Native.
+  <br>
   📚 Learning and Improving My Skills
   <br>
   💻 I love writing code and learn anything about it.
@@ -55,3 +57,9 @@
     </a>
   </div>
 </p>
+
+<picture align=center>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
