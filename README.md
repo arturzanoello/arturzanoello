@@ -8,9 +8,11 @@
   Hi, I'm Artur Zanoello, Systems Analyst & Software Developer from Brazil
   <br>
   <br>
-  🔬 I'm currently studying for my graduate of Bachelor's Degree in Information Systems.
+  🔬 I'm currently studying for my Bachelor's Degree in Information Systems.
   <br>
-  💻 I love writing code and learn anythings about it.
+  📚 Learning and Improving My Skills
+  <br>
+  💻 I love writing code and learn anything about it.
   <br>
   📫 How to reach me: <a href="mailto: arturzanoello@gmail.com">arturzanoello@gmail.com</a>
 </p>
