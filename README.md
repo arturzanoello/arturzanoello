@@ -5,12 +5,12 @@
 </h1>
 <br>
 <p align="center">
-  Hi, I'm Artur Zanoello, Systems Analyst & Software Developer from Brazil
+  Hi, I'm Artur Zanoello, Software Developer from Brazil
   <br>
   <br>
   🔬 I'm currently studying for my Bachelor's Degree in Information Systems.
   <br>
-  📱 Specialized in cross-platform mobile development with React Native.
+  📱 Specialized in web and mobile development with React, React Native and TypeScript.
   <br>
   📚 Learning and Improving My Skills
   <br>
